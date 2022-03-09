@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Elisee Mbaya
+#### Java/Python/Web Developer
+![Java/Python/Web Developer](https://github.com/embaya01/embaya01/blob/main/Banner.png)
 
-<!--
-**embaya01/embaya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Elisee and I am from the Democratic Republic of Congo. I love learning new programming languages and traveling around the world (currently living in Grenada, Caribbean Islands). 
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS / Java / Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
