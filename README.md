@@ -1,11 +1,11 @@
-![Java/Python/Web Developer](https://github.com/embaya01/embaya01/blob/main/Banner.png)
+![Java/Python/Web Developer](https://github.com/embaya01/embaya01/blob/main/Banner1.png)
 # Elisee Mbaya
-#### Java/Python/Web Developer
-I am Elisee and I am from the Democratic Republic of Congo. I love learning new programming languages and traveling around the world (currently living in Grenada, Caribbean Islands). 
+#### Engineer turned AI systems builder.
+I design automation workflows, AI-powered tools, and scalable software that solve real-world problems.
 ## Skills
- - JS / HTML / CSS
- - Java 
- - Python
+ - Typescript
+ - Python 
+ - Prompt Engineering
 
 - 🔭 I’m currently working on this page. 
 
